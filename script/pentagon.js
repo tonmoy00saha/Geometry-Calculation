@@ -15,3 +15,5 @@ function setInputValueId(inputfieldId,area){
     const areaspan = document.getElementById(inputfieldId);
     areaspan.innerText = area;
 }
+changeBackground('penta-back');
+whiteBackground('penta-back');

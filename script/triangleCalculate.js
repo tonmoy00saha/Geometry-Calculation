@@ -9,3 +9,5 @@ function calculateTriangleArea(){
     triangleAreaSpan.innerText= area;
 
 }
+changeBackground('triangle-back');
+whiteBackground('triangle-back');

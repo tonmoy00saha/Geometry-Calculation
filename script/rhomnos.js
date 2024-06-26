@@ -5,3 +5,6 @@ function calculateRhombusArea(){
     const spanRhombusArea = document.getElementById('rhombus-area');
     spanRhombusArea.innerText= area;
 }
+
+changeBackground('rhombus-back');
+whiteBackground('rhombus-back')

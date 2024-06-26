@@ -4,3 +4,5 @@ function calculateEllipseArea(){
     const area = ((22/7)*a*b).toFixed(4);
     document.getElementById('ellipse-area').innerText= area;
 }
+changeBackground('ellipse-back');
+whiteBackground('ellipse-back');

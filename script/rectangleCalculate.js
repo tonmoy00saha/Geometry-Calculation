@@ -7,3 +7,5 @@ function calculateRectangleArea(){
     const rectangleAreaSpan = document.getElementById('rectangle-area');
     rectangleAreaSpan.innerText= area;
 }
+changeBackground('rectangle-back');
+whiteBackground('rectangle-back');
